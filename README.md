@@ -8,7 +8,7 @@ Hello there! Please feel free to visit my portfolio below!
 
 ## Description:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript, PHP
 
 Thank you so much for taking the time to check out this README! Not only did I get a chance to showcase my projects thus far, but I also have the chance to showcase some of the front-end skills I've learned so far.
 
